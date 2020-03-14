@@ -1,0 +1,8 @@
+{
+    "navigationBarTitleText": "订单详情",
+    "navigationBarBackgroundColor": "#fbb03b",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+      "i-modal": "/static/iview/modal/index"
+    }
+}

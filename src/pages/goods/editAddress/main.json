@@ -1,0 +1,8 @@
+{
+    "navigationBarTitleText": "新增收货地址",
+    "navigationBarBackgroundColor": "#fbb03b",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+      "i-button": "../../../static/iview/button/index"
+    }
+}

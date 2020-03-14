@@ -1,0 +1,9 @@
+{
+    "navigationBarTitleText": "约伴出游",
+    "navigationBarBackgroundColor": "#fbb03b",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+      "i-radio-group": "../../static/iview/radio-group/index",
+      "i-radio": "../../static/iview/radio/index"
+    }
+  }

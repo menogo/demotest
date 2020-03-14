@@ -1,0 +1,10 @@
+{
+    "navigationBarTitleText": "达人信息",
+    "navigationBarBackgroundColor": "#fbb03b",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+      "i-input": "/static/iview/input/index",
+      "i-icon": "/static/iview/icon/index"
+    }
+  }
+    

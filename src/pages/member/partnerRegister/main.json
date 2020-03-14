@@ -1,0 +1,9 @@
+{
+    "navigationBarTitleText": "合伙人注册",
+    "navigationBarBackgroundColor": "#fbb03b",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+      "i-input": "/static/iview/input/index"
+    }
+  }
+    

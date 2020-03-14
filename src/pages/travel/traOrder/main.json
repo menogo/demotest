@@ -1,0 +1,8 @@
+{
+    "navigationBarTitleText": "旅游",
+    "navigationBarBackgroundColor": "#fbb03b",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+      "i-input-number": "../../../static/iview/input-number/index"
+    }
+  }

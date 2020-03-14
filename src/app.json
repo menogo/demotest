@@ -1,0 +1,196 @@
+{
+  "pages": [
+    "pages/travelPerson/main",
+    "pages/shop/main",
+    "pages/me/main",
+    "pages/travelIndex/main",
+    "pages/city/main",
+    "pages/bankCard/main",
+    "pages/store/storeIndex/main",
+    "pages/login/main",
+    "pages/search/main",
+    "pages/travelSearch/main",
+    "pages/otherPhoneLogin/main",
+    "pages/webview/main",
+    "pages/traStoreSearch/main",
+    "pages/cashOut/main",
+    "pages/withDrawalList/main"
+  ],
+  "subPackages":[
+      {
+        "root": "pages/meInfo/",
+        "pages": [
+            "commonInfo/main",
+            "addCustomer/main",
+            "meIndex/main",
+            "myCard/main"
+        ]
+      },
+      {
+        "root": "pages/integral/",
+        "pages": [
+            "index/main",
+            "rule/main"
+        ]
+      },
+      {
+        "root": "pages/otherModula/",
+        "pages": [
+            "public/main",
+            "ggCross/main"
+        ]
+      },
+      {
+        "root": "pages/member/",
+        "pages": [
+            "memberIndex/main",
+            "partnerRegister/main"
+        ]
+      },
+      {
+        "root": "pages/setUp/",
+        "pages": [
+          "personInfo/main",
+          "index/main",
+          "bankCardIdent/main"
+        ]
+      },
+      {
+        "root": "pages/profit/",
+        "pages": [
+            "myProfit/main",
+            "myExtend/main",
+            "extendRecord/main"
+        ]
+      },
+      {
+        "root": "pages/cruise/",
+        "pages": [
+            "cruiseIndex/main",
+            "cruiseDetail/main",
+            "flightMore/main",
+            "cruiseIntro/main"
+        ]
+      },
+      {
+        "root": "pages/daren/",
+        "pages": [
+            "darenIndex/main",
+            "lookAround/main",
+            "lookAroundDetail/main",
+            "guideIndex/main",
+            "guideDetail/main",
+            "addPartner/main",
+            "partnerIndex/main",
+            "myPartner/main",
+            "partnerDetail/main",
+            "trasDetail/main",
+            "busIndex/main",
+            "travels/main",
+            "prove/main",
+            "myProve/main",
+            "pushGuideF/main",
+            "myTravels/main",
+            "myGuide/main",
+            "pushTravels/main",
+            "pushAgentBuy/main",
+            "pushGuideS/main",
+            "settledIn/main",
+            "order/main",
+            "darenOrder/main",
+            "addLookArround/main",
+            "guidePay/main",
+            "guideOrder/main",
+            "darenExplain/main",
+            "pushBusS/main",
+            "selectGuide/main",
+            "addStory/main",
+            "darenStory/main",
+            "forward/main",
+            "lookForward/main",
+            "forwardList/main",
+            "commentList/main",
+            "pushBusF/main"
+        ]
+      },
+      {
+        "root":"pages/goods/",
+        "pages":[
+            "confirmOrder/main",
+            "coupon/main",
+            "shopCart/main",
+            "address/main",
+            "editAddress/main",
+            "selectAddress/main",
+            "orderDetail/main",
+            "order/main",
+            "comment/main",
+            "express/main",
+            "commentList/main",
+            "shop/main",
+            "goodsSearch/main",
+            "goodsPay/main",
+            "myCoupon/main",
+            "goodsDetail/main"
+        ]
+      },
+      {
+        "root": "pages/travel/",
+        "pages": [
+            "orderPay/main",
+            "traOrderList/main",
+            "addEvaluate/main",
+            "travelStore/main",
+            "traOrder/main",
+            "travelOrderDetail/main",
+            "customerList/main",
+            "reserveTips/main",
+            "cancelTips/main",
+            "themeTra/main",
+            "travelDetail/main",
+            "independTra/main",
+            "clause/main",
+            "travelSort/main"
+        ]
+      }
+    ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于定位效果展示"
+    }
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#888888",
+    "backgroundColor": "#fff",
+    "selectedColor": "#f78e06",
+    "borderStyle": "black",
+    "list": [ {
+      "text": "小鹿达人",
+      "pagePath": "pages/travelPerson/main",
+      "iconPath": "static/images/tabs/travelperson.png",
+      "selectedIconPath": "static/images/tabs/travelperson-active.png"
+    }, {
+      "text": "旅游专区",
+      "pagePath": "pages/travelIndex/main",
+      "iconPath": "static/images/tabs/travelhome.png",
+      "selectedIconPath": "static/images/tabs/travelhome-active.png"
+    }, {
+      "text": "名品名店",
+      "pagePath": "pages/shop/main",
+      "iconPath": "static/images/tabs/home.png",
+      "selectedIconPath": "static/images/tabs/home-active.png"
+    }, {
+      "text": "个人中心",
+      "pagePath": "pages/me/main",
+      "iconPath": "static/images/tabs/me.png",
+      "selectedIconPath": "static/images/tabs/me-active.png"
+    }],
+    "position": "bottom"
+  }
+}

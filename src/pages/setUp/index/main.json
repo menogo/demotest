@@ -1,0 +1,9 @@
+{
+    "navigationBarTitleText": "平台客服",
+    "navigationBarBackgroundColor": "#fbb03b",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+      "i-input": "/static/iview/input/index",
+      "i-icon": "/static/iview/icon/index"
+    }
+  }

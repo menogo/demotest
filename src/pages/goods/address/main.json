@@ -1,0 +1,8 @@
+{
+    "navigationBarTitleText": "收货地址",
+    "navigationBarBackgroundColor": "#fbb03b",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+      "i-modal": "/static/iview/modal/index"
+    }
+}

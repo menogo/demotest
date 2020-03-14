@@ -1,0 +1,9 @@
+{
+    "navigationBarTitleText": "发布包车接机",
+    "navigationBarBackgroundColor": "#fbb03b",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+      "i-input": "../../../static/iview/input/index"
+    }
+  }
+    

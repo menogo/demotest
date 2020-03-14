@@ -1,0 +1,8 @@
+{
+    "navigationBarTitleText": "添加出行人",
+    "navigationBarBackgroundColor": "#fbb03b",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+      "i-input": "../../../static/iview/input/index"
+    }
+  }

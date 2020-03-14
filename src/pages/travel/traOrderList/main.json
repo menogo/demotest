@@ -1,0 +1,10 @@
+{
+    "navigationBarTitleText": "旅游订单",
+    "navigationBarBackgroundColor": "#fbb03b",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+      "i-tabs": "../../../static/iview/tabs/index",
+      "i-tab": "../../../static/iview/tab/index",
+      "i-icon": "../../../static/iview/icon/index"
+    }
+  }

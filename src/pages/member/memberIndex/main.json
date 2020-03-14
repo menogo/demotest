@@ -1,0 +1,9 @@
+{
+    "navigationBarTitleText": "会员专区",
+    "navigationBarBackgroundColor": "#fbb03b",
+    "navigationBarTextStyle": "white",
+    "usingComponents": {
+      "i-icon": "../../../../static/iview/icon/index"
+    }
+  }
+    
